@@ -7,7 +7,8 @@ This is a basic calculator program for performing addition, subtraction, multipl
 This program generates secure, random passwords based on user-defined length using a mix of letters, digits, and special characters. It prompts the user to enter the desired password length and then prints a randomly generated password. Useful for creating strong, unique passwords for security needs.
 
 
-![Uploading pwdgenerrator.PNG…]()
+![pwdgenerrator](https://github.com/user-attachments/assets/3a31c04c-75f5-4c0e-b49d-22e22342067b)
+
 
 
 
